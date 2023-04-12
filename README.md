@@ -6,7 +6,7 @@ O Rocketpay é um componente que simula o formulário de preenchimento de cartã
 | -------------  | --- |
 | :sparkles: Nome        | **Rocketpay - ExplorerLab**
 | :label: Tecnologias | javascript, html, css
-| :rocket: URL         | 
+| :rocket: URL         | https://rocket-pay-explorer-lab-01.vercel.app/
 | :fire: Desafio     | https://www.figma.com/file/gpqavL469k0pPUGOmAQEM9/Explorer-Lab-%2301/duplicate
 
 ## Objetivo
@@ -27,9 +27,7 @@ Praticar tecnologias WEB como: utilização de inputs, manipulação de elemento
 
 <br>
 
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
-</p>
+![](.github/project.png#vitrinedev)
 
 ## 🚀 Tecnologias
 
@@ -48,9 +46,6 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figm
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT.
-
-### capa VitrineDev
-![](.github/project.png#vitrinedev)
 
 ---
 
